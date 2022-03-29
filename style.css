@@ -1,5 +1,23 @@
+
+#home {
+
+background-color: paleturquoise;
+}
+
+#macaron {
+	background-color: pink;
+}
+
+#chocolate {
+	background-color: rosybrown;
+}
+
+#snickerdoodle {
+	background-color: lightyellow;
+}
+
+
 body {
-	background-color: #B3D89C;
 
 	font-family: 'Parisienne', cursive;
 
