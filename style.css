@@ -6,20 +6,34 @@ background-color: paleturquoise;
 
 #macaron {
 	background-color: pink;
+	font-family: 'Parisienne', cursive;
 }
 
 #chocolate {
 	background-color: rosybrown;
+	font-family: 'Parisienne', cursive;
+	
+
 }
 
 #snickerdoodle {
 	background-color: lightyellow;
+	font-family: 'Parisienne', cursive;
 }
 
 
 body {
+	font-family: 'Roboto Condensed', sans-serif;
 
-	font-family: 'Parisienne', cursive;
 
 }
+
+img     
+ {
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+ }
+
 
